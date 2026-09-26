@@ -4,16 +4,17 @@ Installers for the 10ms R2 Video Manager (macOS and Windows). This repo holds bu
 
 ## Install
 
-Go to **[Releases](../../releases/latest)** and download:
-- **Mac (Apple Silicon):** `R2 Video Manager-<version>-arm64.dmg`
-- **Mac (Intel):** `R2 Video Manager-<version>.dmg`
-- **Windows:** `R2-Video-Manager-Setup-<version>.exe`
+| I use | Download (always the newest version) |
+|---|---|
+| **Windows** | [R2-Video-Manager-Windows-Setup.exe](https://github.com/alamin101010/r2-video-manager-releases/releases/latest/download/R2-Video-Manager-Windows-Setup.exe) |
+| **Mac, Apple Silicon** (M1, M2, M3, M4) | [R2-Video-Manager-Mac-Apple-Silicon.dmg](https://github.com/alamin101010/r2-video-manager-releases/releases/latest/download/R2-Video-Manager-Mac-Apple-Silicon.dmg) |
+| **Mac, Intel** | [R2-Video-Manager-Mac-Intel.dmg](https://github.com/alamin101010/r2-video-manager-releases/releases/latest/download/R2-Video-Manager-Mac-Intel.dmg) |
 
-Not sure which Mac? Apple menu → About This Mac. "Apple M1/M2/M3…" = Apple Silicon, "Intel" = Intel.
+Not sure which Mac? Apple menu → **About This Mac**.
 
 The app is unsigned, so the first launch shows a one-time warning:
-- **Mac:** right-click the app → **Open** → **Open**.
 - **Windows:** **More info → Run anyway**.
+- **Mac:** System Settings → Privacy & Security → **Open Anyway** (older macOS: right-click the app → **Open**).
 
 ## Updating
 
